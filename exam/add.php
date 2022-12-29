@@ -1,5 +1,5 @@
 <?php
-    
+    echo "hello";
     $id = $_GET["id"];
     $gender = $_GET["gender"];
     $firstName = $_GET["firstName"];
